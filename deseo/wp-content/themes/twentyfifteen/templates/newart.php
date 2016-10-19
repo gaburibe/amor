@@ -1,4 +1,4 @@
-<?php /* Template Name: articuloLD */ ?>
+<?php /* Template Name: newart */ ?>
 
 	<!DOCTYPE html>
 
@@ -131,7 +131,7 @@ body { position: relative; min-width: 320px; }
 </nav>
 	<div class="container">
 		<div class="row">
-		    <div class="col-sm-6">
+		    <div class="col-sm-4">
 		      <?
 		     	if ( has_post_thumbnail() ) {
 		     	
@@ -160,7 +160,7 @@ body { position: relative; min-width: 320px; }
 			    ?>
 			    </div>
 		    </div>
-		    <div class="col-sm-12">
+		    <div class="col-sm-2">
 		      
 		       <?php
 

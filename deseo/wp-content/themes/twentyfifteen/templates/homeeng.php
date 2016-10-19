@@ -1,4 +1,4 @@
-<?php /* Template Name: articuloHE */ ?>
+<?php /* Template Name: homeeng */ ?>
 
 	<!DOCTYPE html>
 

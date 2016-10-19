@@ -111,8 +111,8 @@ body{
 		</div>
 		
 	</div>
-	<div class="squarees " >Español</div><Br>
-		      	<div class="squareen ">English</div>
+	<div class="squarees " ><a href="<?php echo site_url(); ?>/index.php/espanol/">Español</a></div><Br>
+		      	<div class="squareen "><a href="<?php echo site_url(); ?>/index.php/english/">English</a></div>
  
 
  

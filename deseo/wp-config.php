@@ -1,4 +1,7 @@
 <?php
+define('WP_HOME','http://localhost/amor/deseo');
+define('WP_SITEURL','http://localhost/amor/deseo');
+
 /**
  * The base configuration for WordPress
  *
